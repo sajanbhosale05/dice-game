@@ -171,7 +171,20 @@ main {
   font-weight: 700;
   color: #dc0e48;
 }
-.visitor h4{
+
+#visitors {
+  font-family: "Nunito", sans-serif;
+  font-weight: 400;
+  height: 100vh;
+  color: #333;
+}
+
+#visitors .unique h4 {
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+#visitors .duplicate h4 {
   font-size: 20px;
   font-weight: bolder;
 }
