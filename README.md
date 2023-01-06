@@ -14,5 +14,6 @@ https://sajanbhosale05.github.io/dice-game/
   <li>If you dont' hold the currentscore and you get one you will loose your score..!!</li>
   <li>The Player Who scores 100 1st Win's the Game.</li> 
 </ol>
+<br>
 <p align="center">
   <b> SHOW SOME 🧡 BY STARRING THIS REPO :)  </b></p>
